@@ -3,7 +3,7 @@
  * @author yanhaijing.com
  * @date 2015年12月16日 20:17:32
  */
-import $ from 'common:widget/lib/gmu/zepto/zepto.js';
+import $ from 'lib/zepto.js';
 
 class EventEmitter {
     constructor() {
